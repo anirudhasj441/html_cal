@@ -1,0 +1,30 @@
+.nav{
+    background-color: #022117c7;
+    margin: 10px;
+    padding: 1px;
+}
+.nav li{
+    display: inline;
+    color: aliceblue;
+    padding: 10px;
+    margin-right: auto;
+    margin-top: inherit;
+    
+    /* border-bottom-color: aliceblue;
+    border-bottom-width: 1; */
+} 
+.nav a:hover{
+    color: #2ee6e6;
+    font-size: 25px;
+}
+form{
+    margin: 20px;
+}
+.nav a{
+    text-decoration: none;
+    font-size: 22px;
+    color: antiquewhite;
+}
+body{
+    background-color: #41d9da;
+}
